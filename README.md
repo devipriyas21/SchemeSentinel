@@ -120,7 +120,7 @@ via shared bank account.
 
 # 🧠 Risk Scoring Logic
 
-Each application is assigned a **risk score (0–100)** based on predefined rules.
+Each application is assigned a **risk score (0–100)** based on predefined rules..
 
 ## Rules Used:
 
